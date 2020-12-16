@@ -1,0 +1,1 @@
+This is Ecko's first (sort of) git project!
